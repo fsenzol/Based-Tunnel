@@ -1,6 +1,6 @@
 # Based Tunnel Privacy Policy and End-User License Agreement (EULA)
 
-Based Tunnel respects your privacy and is committed to protecting your personal information. This document outlines how we collect, use, and share your data when you use our app, as well as the terms governing your use of Warp Tunnel Plus.
+Based Tunnel respects your privacy and is committed to protecting your personal information. This document outlines how we collect, use, and share your data when you use our app, as well as the terms governing your use of our service.
 
 # Privacy Policy
 
